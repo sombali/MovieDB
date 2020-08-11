@@ -1,0 +1,6 @@
+module Pods_TheMovieDB {
+  umbrella header "Pods-TheMovieDB-umbrella.h"
+
+  export *
+  module * { export * }
+}
